@@ -54,7 +54,7 @@
         "mpdf/mpdf": ">=7.1.7",
         "nesbot/carbon": "^1.26",
         "nwidart/laravel-modules": "2.0.*",
-        "omnipay/authorizenet": "2.5.0",
+        "omnipay/authorizenet": "dev-master",
         "omnipay/firstdata": "^2.4",
         "omnipay/payfast": "dev-master",
         "patricktalmadge/bootstrapper": "5.5.x",
